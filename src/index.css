@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family:Helvetica;
+    font-weight: normal;
+    src: url(./assets/fonts/Helvetica.ttf);
+  }
+@font-face {
+    font-family:Helvetica;
+    font-weight: Bold;
+    src: url(./assets/fonts/Helvetica-Bold.ttf);
+  }
+@font-face {
+    font-family:Helvetica;
+    font-weight: Black;
+    src: url(./assets/fonts/Helvetica-BoldOblique.ttf);
+  } */
