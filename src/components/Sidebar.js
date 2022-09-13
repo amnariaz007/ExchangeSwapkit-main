@@ -11,11 +11,15 @@ const Sidebar = ({ openSidebar, setOpenSidebar }) => {
     { lbl: "LOREM IPSUM", slug: "/" },
     { lbl: "LOREM IPSUM", slug: "/" },
   ];
-
+//kkkllll
+//aabcfbjjj
+//asdfjfkkkgllg
 
   //this is just the code of dapp
 //it does not contain any contract
 //it should contain a contract
+//amna
+//is 
   useEffect(() => {
     async function a(){ 
       document.body.addEventListener("click", () => {
