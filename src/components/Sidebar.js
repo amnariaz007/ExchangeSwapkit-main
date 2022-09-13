@@ -12,6 +12,10 @@ const Sidebar = ({ openSidebar, setOpenSidebar }) => {
     { lbl: "LOREM IPSUM", slug: "/" },
   ];
 
+
+  //this is just the code of dapp
+//it does not contain any contract
+//it should contain a contract
   useEffect(() => {
     async function a(){ 
       document.body.addEventListener("click", () => {
