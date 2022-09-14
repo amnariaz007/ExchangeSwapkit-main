@@ -8,3 +8,4 @@ export const tokenPerUSD = 5;
 export const bnbperUsd = 0.0047;
 export const minInvest = 10;
 export const countdowntime = 1656578408000;
+//constants

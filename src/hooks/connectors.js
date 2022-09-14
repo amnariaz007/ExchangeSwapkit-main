@@ -11,3 +11,4 @@ export const RPC_URLS = {
     // 97: "https://data-seed-prebsc-2-s3.binance.org:8545/",
     // 3:"https://ropsten.infura.io/v3/84842078b09946638c03157f83405213"
 };
+//connectors
